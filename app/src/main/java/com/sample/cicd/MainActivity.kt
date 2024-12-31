@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
                         contentAlignment = Alignment.Center
                     ) {
                         Text(
-                            text = "CICD SAMPLE",
+                            text = "Test Pull Request CI",
                             fontSize = 40.sp,
                         )
                     }
